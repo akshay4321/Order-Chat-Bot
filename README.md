@@ -1,1 +1,1 @@
-# Order-Chat-Bot
+Order Chat Bot is a application for ordering food online on chating message and paypal payment is integrated after succesfull payment it will show estimated time for your order to pickup.
